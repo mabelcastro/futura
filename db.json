@@ -1,0 +1,9 @@
+[
+{"id":"A002","departamento":"Recepci�n","nombre":"Tel�fono","estado":"En uso","valor":"20000","serie":"GDFGD3516P"}
+,
+{"id":"A003","departamento":"Recursos Humanos","nombre":"Impresora","estado":"Reparaci�n","valor":"18000","serie":"DFGDF568JKI"}
+,
+{"id":"A004","departamento":"Inform�tica","nombre":"Monitor","estado":"En uso","valor":"120000","serie":"46DFSDFVBN"}
+,
+{"id":"A006","departamento":"Bodega","nombre":"Hidrolavadora","estado":"En uso","valor":"155000","serie":"DSFSD616EW"}
+]
