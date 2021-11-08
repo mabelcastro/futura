@@ -1,0 +1,17 @@
+[
+{"id":"A001","departamento":"Bodega","nombre":"Taladro","estado":"En uso","valor":"40000","serie":"A45SD55ASD"},
+{"id":"A002","departamento":"Recepci�n","nombre":"Tel�fono","estado":"En uso","valor":"20000","serie":"GDFGD3516P"}
+,
+{"id":"A003","departamento":"Recursos Humanos","nombre":"Impresora","estado":"Reparaci�n","valor":"18000","serie":"DFGDF568JKI"}
+,
+{"id":"A004","departamento":"Inform�tica","nombre":"Monitor","estado":"En uso","valor":"120000","serie":"46DFSDFVBN"}
+,
+{"id":"A005","departamento":"Cocina","nombre":"Microoondas","estado":"En uso","valor":"75000","serie":"SDF5684WEW"},
+{"id":"A006","departamento":"Bodega","nombre":"Hidrolavadora","estado":"En uso","valor":"155000","serie":"DSFSD616EW"},
+{"id":"A007","departamento":"Recepci�n","nombre":"CPU","estado":"En uso","valor":"350000","serie":"FDSF18198FR"}
+,
+{"id":"A008","departamento":"Parqueo","nombre":"C�maras de video","estado":"En uso","valor":"700000","serie":"7894FS555ER"}
+,
+{"id":"A009","departamento":"Recursos Humanos","nombre":"Laptop Lenovo","estado":"Reparaci�n","valor":"500000","serie":"FSDFDS6168"}
+
+]
